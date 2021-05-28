@@ -2,7 +2,7 @@ import java.util.Random;
 import java.util.Scanner;  // Import the Scanner class
 
 
-public class Assignment1 {
+public class Assignment2{
 	
 	public static boolean inBounds(int upward_bound, int lower_bound, int guess) {
 		
