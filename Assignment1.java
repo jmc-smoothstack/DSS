@@ -8,7 +8,7 @@ class Assignment1 {
     System.out.println("****\n***\n**\n*"); 
     System.out.println("3)");
     System.out.println("     *\n    ***\n   *****\n  *******"); 
-    System.out.println(bar+"\n"+bar);
+    System.out.println("4)\n"+bar+"\n"+bar);
     System.out.println("  *******\n   *****\n    ***\n     *"); 
 
   } 
